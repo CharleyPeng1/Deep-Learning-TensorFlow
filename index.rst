@@ -11,7 +11,7 @@ Requirements
 ============
 
 * python 2.7
-* tensorflow >= 0.8 (tested on tf 0.8 and 0.9)
+* tensorflow >= 1.0
 
 ============
 Installation
